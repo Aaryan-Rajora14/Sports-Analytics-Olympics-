@@ -1,0 +1,3 @@
+Olympic Games Analytics & Visualization Dashboard
+
+Comprehensive Olympics dataset analysis with interactive Power BI dashboards. Explore athlete performance, medal distributions, event statistics, and historical Olympic data through visual analytics and insights.
