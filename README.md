@@ -1,7 +1,6 @@
 # 🏅 Olympics Sports Analysis Dashboard in Power BI
 
-![Olympics Dashboard Preview](https://via.placeholder.com/800x400?text=Olympics+Dashboard+Screenshot)  
-*(Replace with your actual dashboard screenshot or export image)*
+<img width="734" height="651" alt="Image 1" src="https://github.com/user-attachments/assets/f547c6c4-c8e5-4e68-a77f-07577fd05229" />
 
 ## Welcome, Students! 👋
 
