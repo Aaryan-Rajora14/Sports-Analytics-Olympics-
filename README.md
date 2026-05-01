@@ -68,3 +68,6 @@ Users can filter by **Year**, **Country**, **Sport**, **Medal Type**, and more u
    ```dax
    Total Medals = COUNTROWS(Medals)
    Gold Medals = CALCULATE([Total Medals], Medals[Medal] = "Gold")
+
+
+Happy Learning
