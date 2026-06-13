@@ -70,4 +70,6 @@ Users can filter by **Year**, **Country**, **Sport**, **Medal Type**, and more u
    Gold Medals = CALCULATE([Total Medals], Medals[Medal] = "Gold")
 
 
-Happy Learning
+Happy Learning 
+
+Building skills is the only thing where you never regret your choices.
