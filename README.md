@@ -1,5 +1,7 @@
 # 🏅 Olympics Sports Analysis Dashboard in Power BI
 
+# FOR LEARNERS
+
 <img width="734" height="651" alt="Image 1" src="https://github.com/user-attachments/assets/f547c6c4-c8e5-4e68-a77f-07577fd05229" />
 
 ## Welcome, Students! 👋
