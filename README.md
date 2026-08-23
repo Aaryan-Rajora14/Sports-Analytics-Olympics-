@@ -75,4 +75,4 @@ Users can filter by **Year**, **Country**, **Sport**, **Medal Type**, and more u
 Happy Learning 
 
 Building skills is the only thing where you never regret your choices.
-New Dashboard is Coming.
+New Dashboard has arrived.
